@@ -3,7 +3,7 @@ library(ggplot2)
 library(dplyr)
 
 # Carga el dataset de citas rápidas
-speed_dating_data <- read.csv("../../data/Speed Dating Data.csv")
+speed_dating_data <- read.csv("Speed Dating Data.csv")
 
 # Calcula cualquier estadística o resultados de tu análisis previo aquí
 # Por ejemplo, la proporción de matches, promedios, etc.
